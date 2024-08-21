@@ -39,7 +39,7 @@ def userOptions():
     Please select an option:
     1 - Show the original dataset
     2 - Show the updated Data Frame
-    3 - Visualise the cost of a big mac in AUD
+    3 - Visualise the global inflation rate
     4 - Quit Program
         """)
     
