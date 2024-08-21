@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 quit = False
 
 #----Setup dataframe and query it here prior to creating visualisation and UI functions----#
-original_df =pd.read_csv('data/global_inflation_data.csv')
+original_df =pd.read_csv('global_inflation_data.csv')
 
 
 global_inflation_data = pd.read_csv('data/global_inflation.data.csv',
